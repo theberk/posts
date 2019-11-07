@@ -1,0 +1,38 @@
+#posts{width:100%;}
+
+#post-text{
+height:100px;
+    width:100%;
+    bottom:0;
+}
+
+#publish{
+  padding: 20px;
+align-content: center;
+}
+
+.post {
+    background: #20a8c9;
+    margin-bottom:10px;
+    padding:20px;
+}
+
+.post .text {
+	background: #DBDBDB;
+    padding: 30px;
+}
+
+.post .author {
+    font-weight:normal;
+    padding-top:20px;
+    background:#F7B2AD;
+    text-align: center;
+    margin-bottom: 10px
+    
+}
+
+.post .date {
+    text-align:left;
+    font-size:15px;
+    
+}
